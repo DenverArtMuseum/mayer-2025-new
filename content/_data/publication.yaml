@@ -13,20 +13,20 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Maya Women
+subtitle: Past, Present, Future
 reading_line:
 short_title:
 
 description:
   one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  full: "The 24th Annual Mayer Center Symposium centered Maya women, past and present, as essential producers of art, culture, and economy while asserting female visibility and fighting against cultural erasure. This symposium volume brings together essays, conversations, and poetry by scholars, poets, curators, and activists."
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2027-04-01 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -34,33 +34,127 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
-    url:
-    logo: logo-getty.png
+  - name: Mayer Center for Ancient and Latin American Art at the Denver Art Museum
+    location: Denver, CO
+    url: https://www.denverartmuseum.org/en/mayer-center-ancient-and-latin-american-art
+    logo: 
 
 # ------------------------------------------------------------------------------
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: Victoria Isabel Lyall and Michelle Rich
 
 contributor:
-  - id: jkeller
+  - id: bcastellanos
+    type: secondary
+    first_name: Bianet
+    last_name: Castellanos
+    title: Distinguished McKnight University Professor of American Studies and the Director of the Institute for Advanced Study 
+    affiliation: University of Minnesota
+    bio: "Bianet Castellanos work focuses on Indigeneity through urbanism, tourism, gender, and the U.S.-Mexico border. Her most recent publication is *Indigenous Dispossession: Housing and Maya Indebtedness in Mexico* (2021)."
+
+  - id: rchavez
+    type: secondary
+    first_name: Rosa
+    last_name: Chávez
+    title: Poet, popular educator, and activistst
+    affiliation:
+    bio: "Rosa Chávez is Maya Kiche'-Kaqchikel and has published poetry collections, *Casa Solitaria*, *Piedra Aba'j*, *El Corazón de la piedra*, *Quitapenas*, *AWAS Secretos para curar*, and the *Fanzine Abya Yala.* More recently, she released *Tijax,* a handmade book created during a residency with the projects La Impresora y El Lobi in Puero Rico, as well as an anthology, *Espíritu del camino* (*Rajawal ri b'e*), published by Catafixia Editorial in Guatemala."
+
+  - id: mfew
+    type: secondary 
+    first_name: Martha
+    last_name: Few
+    title: Liberal Arts Professor of Latin American History and Women’s, Gender, and Sexuality Studies
+    affiliation: Penn State University
+    bio: "Martha Few specializes in colonial history in the Maya region with an emphasis on Indigenous peoples, often writing about medicine, gender and sexuality, and the environment. Few is the author of *Baptism Through Incision: The Postmortem Cesarean in the Spanish Empire* (2020) with Zeb Tortorici and Adam Warren."
+  
+  - id: chalperin
+    type: secondary
+    first_name: Christina
+    last_name: Halperin
+    title: Associate Professor of Anthropology 
+    affiliation: Université de Montréal
+    bio: "Christina Halperin teaches archaeology, material culture, and topics in ancient Mesoamerica. She has conducted field research in Mexico, Guatemala, and Belize and co-directs the archaeological project at Ucanal with Carmon Ramos."
+
+  - id: mjuracan
+    type: secondary
+    first_name: Maya
+    last_name: Juracán
+    title: Curator, writer, and researcher
+    affiliation:
+    bio: "Maya Juracán curates shows centered on contemporary art from Central America, uses a community-based, activist approach. Juracán’s work engages with feminism, resistance, and art theory via projects like Galería MUY in San Cristóbal de las Casas, Proyecto 44, Bienal En Resistencia, and La Revuelta. She is currently a professor of Contemporary Art History at the Universidad Francisco Marroquín in Guatemala."
+
+  - id: rjoyce
+    type: secondary 
+    first_name: Rosemary
+    last_name: Joyce
+    title: Professor of Anthropology
+    affiliation: University of California, Berkeley
+    bio: "Rosemary Joyce has conducted archaeological research at ancient Maya sites in Honduras for over three decades, with special attention to markers of social (in)equality, gender, and sexuality. She also works with museum collections, namely Harvard’s Peabody Museum, the Wellesley College Museum and Cultural Center, the Museo de Antropología e Historia in Honduras, and the National Museum of the American Indian."
+
+  - id: vlyall
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    first_name: Victoria Isabel
+    last_name: Lyall
+    title: Frederick and Jan Mayer Curator of Arts of the Ancient Americas 
+    affiliation: Denver Art Museum
+    bio: "Victoria Isabel Lyall joined the museum in 2017 and most recently, she is co-curator and contributor to *Traitor, Survivor, Icon: The Legacy of La Malinche* (2022), *ReVisión: A New Look at Art of the Americas* (2020), and editor of symposium volumes *Murals of the Americas* (2019), *El Mar Caribe* (2023), and *Collecting the “Other Americas”* (2025)."
+
+  - id: ochinchillamazariegos
+    type: secondary 
+    first_name: Oswaldo 
+    last_name: Chinchilla Mazariegos
+    title: Associate Professor of Anthropology and Director of Undergraduate Studies in Archaeology 
+    affiliation: Yale University
+    bio: "Oswaldo Chinchilla Mazariegos studies Mesoamerican art, religion, and writing. He has been instrumental in the study of Cotzumalhuapa-style arts of Guatemala’s Pacific Coast. Chinchilla Mazariegos co-curated the exhibition *Lives of the Gods: Divinity in Maya Art* (2022) at the Metropolitan Museum of Art."
+
+  - id: mmartinezperez
+    type: secondary
+    first_name: Margarita
+    last_name: Martínez Pérez 
+    title: Profesora Investigadora de Tiempo Completo 
+    affiliation: Universidad de Ciencias y Artes de Chiapas
+    bio: "Margarita Martínez Pérez is a Tsotsil linguistic anthropologist who studies Tsotsil language communities, with an emphasis on language acquisition and community learning. Her works engage with interdisciplinarity in anthropology, language documentation, and the knowledge and practices passed verbally between generations of Tsotsil women."
+
+  - id: onavarrofarr
+    type: secondary
+    first_name: Olivia
+    last_name: Navarro-Farr
+    title: Professor of Archaeology, Sociology, and Anthropology and Program Chair for Archaeology
+    affiliation: College of Wooster
+    bio: "Olivia Navarro-Farr co-directs the Proyecto Arqueológico Waka’ (PAW) with David del Cid and Damien Marken and in 2012, she and colleagues discovered the tomb of the ancient queen Lady K’abel. Her research interests include the archaeology of ritual, monumental architecture, site abandonment, and the role of royal women in Classic Maya statecraft."
+
+  - id: rpalacios
+    type: secondary 
+    first_name: Rita 
+    last_name: Palacios
+    title: Language Professor
+    affiliation: School of Liberal Studies at Conestoga College, Kitchener, Ontario
+    bio: "Rita Palacios focuses on contemporary Maya literature from Guatemala, drawing on cultural, gender, socio-anthropological, post-colonial, and trans-national studies. Palacios’s publications center around indigeneity, poetry, and literary theory, often blurring the lines between the literary and visual arts. Palacios co-authored the book *Unwriting Maya Literature: Ts’íib as Recorded Knowledge* (2019) with Paul Worley."
+
+  - id: mrich
+    type: primary
+    first_name: Michelle
+    last_name: Rich
+    title: Ellen and Harry S. Parker III Associate Curator of Indigenous American Art 
+    affiliation: Dallas Museum of Art
+    bio: "Michelle Rich joined the museum in 2018. She is the editor of *The Arts of the Ancient Americas at the Dallas Museum of Art* (2023). Rich was awarded a National Science Foundation Graduate Fellowship while pursuing her PhD in archaeology at Southern Methodist University, and has been affiliated with the US–Guatemalan led Proyecto Arqueológico El Perú-Waka' since 2003."
+
+  - id: pworley
+    type: secondary 
+    first_name: Paul  
+    last_name: Worley
+    title: Professor of Spanish and Chair of the Department of Languages, Literatures, and Cultures
+    affiliation: Appalachian State University
+    bio: "Paul Worley focuses on contemporary Latin American literature, Indigenous rights movements, Latinx studies, and diasporic Indigenous communities in the US. Worley’s most recent publication is *Unwriting Maya Literature: Ts'íib as Recorded Knowledge* (2019) with Rita Palacios."
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2027 Denver Art Museum
 
 license:
   name: Creative Commons Attribution 4.0 International License
@@ -102,10 +196,19 @@ resource_link:
 
 subject:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
+    name: ART / Indigenous
+    identifer: ART041000
+  - type: bisac
+    name: ART / Women Artists
+    identifier: ART065000
+  - type: bisac
+    name: ART / Caribbean & Latin American
+    identifier: ART044000
+  - type: bisac
+    name: HISTORY / Latin America / Pre-Columbian Era
+    identifier: HIS061000
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: maya art, indigenous, poetry, women artists, mayan language
 
 # ------------------------------------------------------------------------------
 # Revision History

@@ -10,4 +10,5 @@ outputs:
   - pdf
 ---
 
-In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history.
+The 24th Annual Mayer Center Symposium centered Maya women, past and present, as essential producers of art, culture, and economy while asserting female visibility and fighting against cultural erasure. This symposium volume brings together essays, conversations, and poetry by scholars, poets, curators, and activists.
+
