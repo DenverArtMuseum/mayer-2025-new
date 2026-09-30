@@ -1,0 +1,19 @@
+figure_list:
+
+  - id: few_fig_1
+    src: figures/Few_Fig_1.jpg
+    label: "Fig. 1"
+    caption: "Inquisition document mentioning María García, 1705. Inquisición, Volumen 729, Expediente 4, Foja 342. Archivo General de la Nación, Mexico City."
+    alt: "A page from an old book with yellowed paper and text scrawled in black ink. Words from the reverse bleed through, making it difficult to read."
+
+  - id: few_fig_2
+    src: figures/Few_Fig_2.jpg
+    label: "Fig. 2"
+    caption: "Francisco Hernández, Rerum medicarum Novae Hispane thesauraus, seu, Plantarum animaliummineralium, Mexicanorum historia, 193. Rome: Ex typographeio Vitais Mascardi, 1651."
+    alt: "A page from an old book with drawn diagrams of leafy plants on the left and printed text in Spanish on the right."
+
+  - id: few_fig_3
+    src: figures/Few_Fig_3.jpg
+    label: "Fig. 3"
+    caption: "Bernardino de Sahagún, Florentine Codex, Book 11, page 144. Getty Digital Florentine Codex."
+    alt: "A page from an old book with two columns of handwritten text. Plant diagrams illustrated in color are inserted between paragraphs."
