@@ -1,0 +1,209 @@
+---
+title: A Past and Future for the Study of Maya Women
+layout: essay
+order: 400
+contributor:
+    - id: rjoyce
+---
+
+Published in 2001, *Gender and Power in Prehispanic Mesoamerica* was (to my knowledge) the first single-author book to focus on sex and gender in ancient Mesoamerican societies. At the time, arguing that women drove much of the development of Maya society and asking how they contributed—not if they did—was received in some quarters as overreach. Today, looking back a quarter of a century, I would no longer need to write the same book. Yet there is still substantial work to be done to decolonize the study of the deep history of Maya peoples. In this essay, I want to move from the hopeful present to the disciplinary past, then back to the future I think we can imagine if the energy of archaeologists and art historians remains informed by and attuned to present-day Maya artists, activists, and women in all walks of life.
+
+**Rethinking Gender in Prehispanic Mesoamerica**
+
+In 1990, as part of a symposium at the annual meeting of the American Anthropological Association, I presented a paper with the title “The Construction of Gender in Classic Maya Sculpture.”[^1] Ultimately published in revised form six years later, this paper proposed that images like Yaxchilan Lintel 1 reflect a Maya philosophy that requires shared participation in ceremony by men and women for actions to be ritually effective (fig. 1).[^2] This idea was not something I made up as a scholarly proposition. I found it expressed in the ethnographies I was reading by scholars living in Maya communities and observing everyday life and ritual practices.
+
+{% figure 'joyce_fig_1' %}
+
+Anthropologist Nathaniel Tarn and writer Martín Prechtel in their study of Santiago Atitlan wrote that “Atiteco thought conceives of male and female as aspects of one original unit,” where “no unit can be other than both male and female. Certainly, nothing complete, nothing fully fulfilling its function in the world, can be other than this. Thus, a man cannot take office before marriage and all offices have complementary tasks for the husband/wife pair, whether they function together on any given occasion or not.”[^3] Writing about her experiences in Zinacantan, anthropologist Leslie Devereaux explained that “goals can only be achieved (perhaps one should say can best, or most appropriately be achieved) by couples, acting in concert through their complementary work skills.”[^4] Women in Zinacantan had named roles as ritual participants: the Hchik′ pometik tending incense burners, the Hk′el ve′elil presiding over ritual feasts, the Hch′ol vo′ distributing alcoholic beverages, and the Hpachvaneh ve′elil who conserves the knowledge of etiquette and cuisine for ritual feasts.[^5] In the actual performance of rituals, ethnographers described the joint activities of men and women that substantiated the understanding of women’s performance as indispensable for rituals to be effective.
+
+When I was a student, this ethnographic reality seemed distant from the ways archaeologists were conceptualizing Maya society before European invasion. The understanding of ancestral Maya society was in a state of great change, fueled by the long-delayed recognition that Maya writing could be read and that the history written on Maya monuments could open doors to understanding which had previously been walled off. Through her careful reconstructions of genealogies and dynastic succession at Piedras Negras and Yaxchilan, the great art historian Tatiana Proskouriakoff convincingly demonstrated that figures on monuments once considered male priests were noble and royal women.[^6] Suddenly, Classic Maya politics was full of agentive women, like those recorded in rituals of accession to power at Piedras Negras (fig. 2).
+
+{% figure 'joyce_fig_2' %}
+
+Yet even as these advances were allowing art historians and archaeologists to recognize that both men and women had roles in politics, examples of women as apparent authorities tended to be explained away, described as exceptions to a presumed rule of patrilineal descent and patriarchal power. After art historian Clemency Coggins painstakingly assembled a proposed dynastic succession and genealogy for the rulers of Tikal, archaeologist William Haviland wrote that “the data are consistent with models of ancient Maya sociopolitical organization in which patrilineal descent, stratification, and strong political authority were important.”[^7] Even at the time, that conclusion seemed extraordinary for a proposed genealogy in which the earliest ruler was succeeded by his daughter’s husband, and a male ruler two generations later was succeeded by his daughter. While the earlier royal daughter was not identified as a subject of political art at the time, the later one, nicknamed “Woman of Tikal,” was the subject of Stela 23, depicted on Stela 25, noted in the genealogy of a male ruler on Stela 26, and identified as the occupant of a major tomb, Burial 162. Haviland argued that, despite succession apparently passing through women in four of eleven cases in the reconstructed genealogy, “patrilineal succession was the rule,” and the contrary examples were “no problem for there are few, if any, societies so rigid that they will not suspend the rules when circumstances require it.”[^8] This was the solution: Men in power were consistent with “the rules.” Women were exceptions, no matter how often they were seen in such roles.
+
+This approach to interpretation of political monuments, with all of these troubling ways of making women disappear, was not really an obstacle to the kinds of questions I was pursuing in my own archaeological research at the time. In the Ulua valley of Honduras, we found no carved stone monuments with portraits of political actors or historical inscriptions. Instead, I worked on sites with abundant imagery of women in the form of painted polychrome vessels (fig. 3), figurines (fig. 4), and even close to life-size clay sculptures (fig. 5). Women were shown as participants in ritual, engaged in many of the same kinds of activities that the ethnographies I was reading described: presenting food and drink in special vessels as part of ceremonies, even shown hand in hand with male counterparts to whom they were not visually subordinated (see fig. 4). On the margins, the Ulua valley was less hierarchical than other parts of the Maya world, a place where ritual coordinated social life and efforts by individual families to consolidate power were blocked by the population refusing to accept such centralized authority.
+
+{% figure 'joyce_fig_3' %}
+
+{% figure 'joyce_fig_4' %}
+
+{% figure 'joyce_fig_5' %}
+
+An accident of fate led to me placing the images of women from this region in dialogue with monumental sculpture from Classic Maya cities, leading me to ask how the active roles of women were differentially visible in different media and in distinct political and social settings. The inspiration came with a duty I took on, as an assistant curator at Harvard’s Peabody Museum of Archaeology and Ethnology, for the final editing of Proskouriakoff’s last book, *Maya History*.[^9] To carry out this task, I had to carefully check that all the monuments she described were properly cited, illustrated, and correctly identified. This led me to read reports from Maya sites that I might never have grappled with otherwise. In the process, I realized that monuments and the small scale, apparently everyday images in clay found at sites in Guatemala, Belize, and Mexico, were telling a complex story about women in Maya society. In understanding these images, I relied on a process of comparison across domains of art and between works created and used in different social settings, juxtaposing the hierarchical societies of the central Maya lowlands with the less hierarchical ones where I worked in Honduras and, in each area, comparing imagery of women used by the wider population to those created for the small class of noble and ruling families.
+
+The first product of this new line of thinking was a conference paper, “Classic Maya Images of Gender and Labor,” presented at the first Conference on Women in Archaeology held at Appalachian State University in 1991. Sparingly illustrated with reconstruction drawings of figures from a pair of stelae, one now identified as Lady K′abel of Waka′ (fig. 6), this paper linked archaeological examples to historic sources from sixteenth century Yucatan to begin exploring the differences in visibility of women’s contributions to Maya society. In this first exploration of the topic, I pointed to the way that Classic Maya monumental art, the communication medium of the ruling families and nobility, de-emphasized everything from bodily sexual differences to differences in action in order to represent the power of noble families resulting from unified action. Then, in a few short paragraphs, I summarized differences in the actions of women and men shown on painted vessels and in figurines. I noted that women were depicted weaving (fig. 7), grinding corn, and presenting food in pots, activities that at first glance might seem simply like domestic support labor and that had previously been described as “genre figures.” Linking the clay and carved stone objects, I argued that the products of women’s labor were critical in the ritual economy of Maya people. This was reflected in the presentation of products of feminine labor in the otherwise unified monumental images. On monuments, noble women held bundles wrapped in cloth that small clay sculptures showed being woven by feminine figures. Women held out bowls containing offerings or ritual implements on monuments; in smaller scale images, the vessels they offered contained foods like those consumed at social ceremonies. I argued that the bundles and bowls pointed to women’s work and that the work women did was not simply support but necessary for the completion of social ceremonies.[^10] This built on another insight from ethnographic research at Zinacantan: that “male labour produces the raw materials, and female labour transforms them into objects of use and consumption.”[^11] By showing the moment when products of women’s labor were incorporated in shared ceremonial action, monuments presented unified noble action without including recognition of women’s specific, critical contributions.
+
+{% figure 'joyce_fig_6' %}
+
+{% figure 'joyce_fig_7' %}
+
+**Interpreting Images: Methods and Theories**
+
+Putting together a contemporary Maya philosophy of shared participation in ritual action with the ruling class’s emphasis of the unity of ruling families began the process of weaving together interpretive narratives that culminated in *Gender and Power in Prehispanic Mesoamerica*. Throughout the decade between the earliest steps in this project and its culmination, I presented papers at conferences and gave talks for the public about the interdependency, or complementarity, of men and women in Classic Maya social life and ceremony. The responses from public audiences encouraged me to be a more critical scholar. At one public talk, someone asked how I could know what sex a sculpted figure had. A student listening to a guest lecture asked why, when I read the inscription on a Maya monument, I translated the verb as “he acted” when I also noted that the Maya verb didn’t mark the gender of the actor. Based on interactions with different public audiences, I realized I needed to better articulate how I was reading these images. This involved developing a theoretical framework for interpretation and, in parallel, a theoretical understanding of the aspects of human subjectivity that we denote by using the terms “sex” and “gender.”
+
+By the 1996 publication of my 1990 paper, I was employing insights by the philosopher Roland Barthes to understand images as narratives.[^12] When I proposed that holding a cloth bundle referred to the work of weaving, how did I understand that backward reference? Barthes gave me an understanding of images as encapsulating a “pregnant moment”—“In order to tell a story, the painter possesses only one moment,” which must be open to being read as “the present, the past, and the future, that is, the historical meaning of the represented action.” The way that images work, Barthes argued, is by creating a connection between these different moments so that the moment depicted pointed toward those not shown, those preceding and following that pregnant moment.[^13]
+
+My interest in the visual rhetoric of Maya images at this time was not unique; as a graduate student, I had already attended a conference at the University of Chicago dedicated to exploring the rhetorical dimensions of Maya texts and images. In his contribution to the introductory section of the published conference volume, anthropological linguist William Hanks suggested scholars should approach Maya materials with a concept of intertextuality that would link “works in different codes, across different semiotic channels, such as written discourse and pictorial representation, material form (ceramic, architectural) with glyphic, written, or pictographic inscriptions.”[^14] This proposal resonated with the challenge I faced as an archaeologist: to show how things in different categories acted as an assemblage to create meanings. When I looked at an image showing juxtaposed figures holding a variety of objects, I recognized many of those objects as corresponding to the kinds of things we recovered at archaeological sites. This linkage, this intertextuality, fueled my understanding of what was being foregrounded in the visual culture.
+
+Classic Maya monumental sculptures present images and texts together. As examples of works in “different codes” the texts and images have an inherent intertextual relationship. Hanks described this intertextual relationship as “interpretation.” The image could (but did not always) clarify what the text related; a text could (for someone literate) determine their understanding of what the image showed.[^15] Even with limited exposure to Maya art, we can recognize two human figures when we look at an image like Lintel 1 from Yaxchilan (see fig. 1). The one on the left is posed with the body frontal and is much taller than the profile figure on the right. The clothing of the right-hand figure completely covers the body, from the neck to the wrists and ankles. The left-hand figure wears a short kilt that leaves the legs bare, so we can see the sandaled feet turned right and left and jeweled bands at the level of the knees. This figure’s arms are also uncovered, with a shield on the lower left arm and the right hand holding a complex object. The shorter person on the right holds a round bundle tied with a knot at the top. From these observations, we could argue that the left-hand figure is the focus of the image, the right-hand figure supporting the activity shown. We might be able to interpret the costumes each wears and recognize the shorter figure as a woman and the taller one as a man. If we were able to decipher the text that frames and breaks the image, we could confirm that it “interprets” the scene intertextually, not by literally describing the image but by identifying the two figures by name, placing their actions on a specific date, and giving each figure a series of titles that reflect their individual biographies. Reading the visual image alone provides us insight into a model or citational precedent for action by living people; adding the interpretation of the text constrains the image, makes it specific, historical, without robbing it of that broader meaning.
+
+Intertextuality was not limited to this kind of interpretation of image by text. Hanks used the term “contiguity” to describe the way different representational elements relate to each other in spatial relations, just as Proskouriakoff identified groups of monuments at Piedras Negras as pertaining to the lifetime of one ruler. Contiguity establishes an intertextuality between monuments near each other. Finally, Hanks described an intertextual relationship that could exist when a system of representation was derived from another. This line of thinking encouraged me to examine the intertextuality between the living performance of ritual and the embodiment of ritual performance in three distinct visual channels: monumental sculpture, polychrome painted vessels, and three-dimensional modeled clay figures. Intertextuality did not require or predict that different media would follow the same conventions; instead, it asked how differences among them worked.[^16]
+
+Hanks endorsed using a semiotic approach to Maya writing rooted in the work of American philosopher Charles Sanders Peirce, a suggestion that became a central part of my approach to understanding visual materials.[^17] As Veerendra Lele writes, for Peirce, signs “represent an aspect of the object to another sign/mind/interpretant.”[^18] Every sign has the potential to signify arbitrarily (symbolically), iconically (by resemblance), or indexically (by a relationship of connection). From a Peircean perspective, the connection between bowls held by noble women in monumental art and the bowls held by feminine figurines is indexical; the bowl points to the context of shared meals. The equation is of course dependent on iconicity: The bowls held by noblewomen on monuments have a particular shape that links them by resemblance not to cooking or some other step in food preparation but to serving (fig. 8). The vessels perched atop the heads of figurines from the Ulua valley are two-handled brewing jars whose sherds are a major part of the detritus from feasting, thus linking the women to serving drink (fig. 9). Intertextuality allowed me to interpret images like these in relation to the activities of people in each social setting, but each social setting placed different emphases on activities so the meanings are not reducible to a single interpretation.
+
+{% figure 'joyce_fig_8' %}
+
+{% figure 'joyce_fig_9' %}
+
+One more step was necessary before I had the tools required to write *Gender and Power*. It was a methodological step, one that rested on an understanding of feminist and queer theory. It began with my unease about the way that different figures were identified as depictions of men and women. At the time that I began to explore aspects of gender in Mesoamerican societies, the standard anthropological view was that sex and gender were separate: sex biological and gender a cultural construal of sex. I began to question that view in my first conference presentations, where one of the repeated issues raised was how we could be sure that people identified by costume and hair treatment conformed to a defined sexual category. At the 1991 Boone conference, archaeologist Cheryl Claassen pointed me to a key resource, the work of Judith Butler, a gender studies scholar who popularized the notion of the performative nature of gender and sex. Claassen argued, following Butler, that “both gender and sex are culturally determined . . . there is no point in distinguishing these terms,” and quoted Butler: “Perhaps \[sex\] was always already gender, with the consequence that the distinction between sex and gender turns out to be no distinction at all.”[^19]
+
+Butler insisted that sex and gender could not be treated as separate phenomena, that biology did not precede culture. They demonstrated that the two are inextricably linked in discourses and cultural claims about human nature. In their analyses, femininity and masculinity are performances—things people do. After working through these ideas in studies of childhood across Mesoamerica, I first brought these insights to bear on Maya art in papers published and presented in 1996.[^20] In the published version of my 1990 conference paper, “The Construction of Gender in Classic Maya Monuments,” I was still tangled up in the anthropological distinction between a biological sex and a cultural gender, but through Butler, I had reached the point of understanding gender as performance. It was only after I fully integrated Butler’s *Bodies That Matter* that I fully embraced the inseparability of sex and gender as cultural and performative.[^21] In 1996, I participated in two different conferences held at Dumbarton Oaks that represented a critical turning point. One was a closed roundtable, “Precolumbian States of Being,” for which I presented ongoing work on Central American materials. The other was a two-day symposium, “Recovering Gender in Pre-Hispanic America,” where I addressed Maya gender.[^22]
+
+In the roundtable paper, I began with Butler’s argument that the “production of sex *as* the prediscursive ought to be understood as the effect of the apparatus of cultural construction designated by *gender*.” I was able to draw on Butler’s own response to critics who accused her of ignoring the materiality of human bodies, in which she showed that the idea of the body as given and precultural is an effect produced by the same discourses that present sex as a prediscursive ground for gender. The intelligibility of bodies as sexed is a product of attention to bodily activity in discourses about human being. I used this framework to analyze Central American and Formative Period Mesoamerican sculptures in multiple media in which different body parts were singled out as subjects or served as the major identifiable indications of action. I quoted Butler’s characterization of gender as “an incessant or repeated action of some sort.”[^23]
+
+In the second paper from 1996, “Negotiating Sex and Gender in Classic Maya Society,” I fully explored the implications of Butler’s concepts of performing or doing gender in relation to Classic Maya materials. Following Butler, I showed that attempts to control the way gender developed began with the control of the materialization of gendered bodies, using practices as mundane as hair cutting. I suggested that haircutting, undertaken to ensure that body presentation conformed to gender and age expectations, was an excellent example of the way Butler argues that disciplining gender fails because lived experience diverges from the ideal. In this case, hair regrows in its undisciplined way. I suggested that images of idealized human forms in Classic Maya art served as models for what Butler calls “citational performances.”[^24] Citational performances are the ways living people seek to replicate an ideal. But they will always fall short of it, creating an internalized awareness of missing the ideal and a basis for the self-discipline of gendered performance. With Butler’s analysis as a guide, I could recognize the highly stylized and repeated actions presented in Maya sculpture as citational, crafting a model in stone for what should happen in the flesh.
+
+**Where Performativity Leads Us: Gender and Sexuality**
+
+Attending to performativity and the way people were depicted doing gender changed how I looked at the visual culture produced in the Maya world. Already by 1995, I was beginning to think about sexuality, which was marginalized in the anthropological work I drew on but central to Butler’s writing. The way that adorned bodies were made attractive objects of desire, were made beautiful, was central to conference papers I presented between 1995 and 1998.[^25] This was also the time I was developing the 1996 Dumbarton Oaks symposium paper into its published form. There, I argued that “maleness seems to be insistently defined in terms of sexuality,” an argument that emerged as I contrasted the way dichotomous male and female subjects were represented in Classic and Postclassic Maya art.[^26]
+
+The ideas I developed at the end of this essay were laid out in more detail in a 1998 conference paper, part of a session of the annual Society for American Archaeology meeting, that was published in 2000.[^27] While some of the evidence I cited included apparent sex acts, much of what I was writing about was desire: the display of young bodies viewed by older figures. At first, it was difficult to think about desire in the representation of women in Classic Maya art. In monumental sculptures, women’s bodily difference is minimized. Figurines and polychrome pots show women’s breasts being touched by male supernaturals, but these seemed (and seem) different to me: more closely related to contemporaneous ceramic figurines depicting women nurturing.[^28] I realized that one of my challenges was that I was trying to see women as sexual objects of men’s desire. But when I asked how women’s desire was depicted, I saw that adult women, like adult men, were shown admiring the adorned bodies of youthful men.[^29]
+
+My exploration of sexuality in Classic Maya art did not go any farther before I finished *Gender and Power*. Considering sexuality and desire shifted what I thought should be the focus of analysis: from the political relations of normative men and women to a broader range of subjective experiences of sex. Today, while there remain scholars who treat women as inherently subordinated to men in Classic Maya society, there are a host of other scholars who document the lives of powerful Maya women.[^30] Household archaeology and the study of small-scale images embodied in figurines similarly document the presence and authority of women outside the nobility. Insofar as *Gender and Power* was intended to establish that women had power in Classic Maya society, the task is accomplished, and today, it would be unnecessary to update the book. Yet there remains unfinished work: to continue undoing the epistemic violence of scholarship predicated on the universality of two biological sexes expressed only as two social genders.
+
+**A Future for the Historical Study of Maya Women: Beyond the Binary**
+
+In the final chapter of *Gender and Power*, I returned to the models of internalization of sexual subjectivity that Butler provided, pointing toward what I hoped would be a future exploration of personhood beyond a gender binary. I had described the kind of sexual regime that I had teased out from different sources in terms of gender fluidity, including the shifting sexuality of nonhuman entities such as corn and the moon. I underlined that the apparent dominance of binary gender was an effect of ruling class interests expressed in monumental images, also evident in the exhortations of Mexica nobles recorded in the sixteenth century. These discourses marginalized same-sex desires and nonbinary gendered experiences, but in doing so, they also made visible these forms of human personhood as existing and expressed in the same societies.
+
+My path to pursue these questions took me away from the study of the Classic Maya to explorations of Formative Mesoamerican villages and the ways sexual subjectivities were represented in clay figurines centuries before the first Maya monuments were carved. I expected there to be a flowering of work on the richness of embodied experiences among the ancient Maya that might include perspectives broadening what we understand about women’s lives in the past. I rooted my expectation in the implications that Butler’s frameworks had for analysis. There was reason to feel encouraged; a year after *Gender and Power* was published, Matthew Looper’s essay explicitly asking about the possible existence of genders beyond the binary among the Maya was included in an important volume about Maya women.[^31] Yet the gender binary, and essentializing maleness and femaleness in ways that emerge from European gender ideologies, remains stubbornly common in analyses.
+
+A critical step in decolonizing scholarship is to acknowledge that the gender binary was a tool of control mobilized during colonization. I know it is critical because, today, I am most often asked to speak about the existence of sex beyond the binary in Mesoamerican gender systems. Future scholars can help provide ways for contemporary descendants to find connections with the constructions of their ancestral past that academics offer.
+
+**Bibliography**
+
+Ardren, Traci, ed. *Ancient Maya Women*. AltaMira, 2002.
+
+Barthes, Roland. *Image-Music-Text*. Noonday Press. 1977.
+
+Butler, Judith. *Gender Trouble: Feminism and the Subversion of Identity*. Routledge, 1990.
+
+Butler, Judith. *Bodies that Matter: On the Discursive Limits of 'Sex'.* Routledge, 1993.
+
+Claassen, Cheryl. "Questioning Gender: An Introduction." In *Exploring Gender Through Archaeology: Selected Papers from the 1991 Boone Conference*, edited by Cheryl Claessen. Prehistory Press, 1992.
+
+Coggins, Clemency C. "Painting and Drawing Styles at Tikal: An Historical and Iconographic Reconstruction." PhD diss., Harvard University, 1975.
+
+Devereaux, Leslie. "Gender Difference and Relations of Inequality in Zinacantan." In *Dealing with Inequality*, edited by Marilyn Strathern. Cambridge, 1987.
+
+Hanks, William F. "Word and Image in a Semiotic Perspective." In *Word and Image in Maya Culture: Explorations in Language, Writing, and Representation*, edited by W. F. Hanks and D. S. Rice. University of Utah Press, 1989.
+
+Haviland, William A. "Dynastic Genealogies from Tikal, Guatemala: Implications for Descent and Political Organization." *American Antiquity,* 42 (1977): 61–7.
+
+Joyce, Rosemary A. "Classic Maya Images of Gender and Labor." In *Exploring Gender Through Archaeology: Selected Papers from the 1991 Boone Conference*, edited by Cheryl Claessen. Prehistory Press, 1992.
+
+Joyce, Rosemary A. "Women's Work: Images of Production and Reproduction in Prehispanic Southern Central America." *Current Anthropology* 34, no. 3 (1993): 255–74.
+
+Joyce, Rosemary A. "The Construction of Gender in Classic Maya Monuments." In *Gender in Archaeology: Essays in Research and Practice*, edited by Rita Wright. University of Pennsylvania Press, 1996.
+
+Joyce, Rosemary A. "Performing the Body in Prehispanic Central America." *RES: Anthropology and Aesthetics* 33 (1998): 147–65.
+
+Joyce, Rosemary A. "A Precolumbian Gaze: Male Sexuality Among the Ancient Maya." In *Archaeologies of Sexuality*, edited by Barbara Voss and Robert Schmidt. Routledge, 2000.
+
+Joyce, Rosemary A. *Gender and Power in Prehispanic Mesoamerica*. University of Texas Press, 2001a.
+
+Joyce, Rosemary A. "Negotiating Sex and Gender in Classic Maya Society." In *Gender in Pre-Hispanic America*, edited by Cecelia Klein. Dumbarton Oaks, 2001b.
+
+Joyce, Rosemary A. "Beauty, Sexuality, Body Ornamentation and Gender in Ancient Mesoamerica." In *In Pursuit of Gender*, edited by Sarah Nelson and Myriam Rosen-Ayalon. AltaMira Press, 2002a.
+
+Joyce, Rosemary A. "Desiring Women: Classic Maya Sexualities." In *Ancient Maya Gender Identity and Relations*, edited by Lowell Gustafson and Amelia Trevelyan. Bergin & Garvey, 2002b.
+
+Joyce, Rosemary A. "Figurines, Meaning, and Meaning-making in Early Mesoamerica. In *Material Beginnings: A Global Prehistory of Figurative Representation*, edited by Colin Renfrew and Iain Morley. McDonald Institute for Archaeological Research, 2007.
+
+Joyce, Rosemary A. "Disentangling Iconography in Borderlands: Nonhuman Actors and Authority in Honduran Classic Polychromes." *Boletín del Museo Chileno de Arte Precolombino* 29, no. 2 (2024): 96–114.
+
+Lele, Veerendra P. "Material Habits, Identity, Semeiotic." *Journal of Social Archaeology* 6 (2006): 48–70.
+
+Looper, Matthew. "Women-Men (and Men-Women): Classic Maya Rulers and the Third Gender." In *Ancient Maya Women*, edited by T. Ardren. AltaMira. 2002.
+
+Navarro-Farr, Olivia C., Mary Kate Kelly, Michelle Rich, and Griselda Pérez Robles. "Expanding the Canon: Lady K'abel the *Ix Kalooomte'* and the Political Narratives of Classic Maya Queens." *Feminist Anthropology* 1 (2020): 38–55.
+
+Parpal Cabanes, Esther, and Zoraida Raimúndez Ares. "Las mujeres de Uhx Te' K'uh en la corte palencana: Una nueva aproximación a través de sus representaciones." *Boletín Chileño de Arte Precolombino* 29, no. 1 (2024): 134–53.
+
+Ponce, Jocelyne M., Marcello Canuto, Tomás Barrientos Q., Erin Patterson, David Stuart and Caroline Parris. "Weaving Political Threads: A Local Noble Woman at the Lowland Maya Site of La Corona." *Journal of Field Archaeology* 51, no. 2 (2026): 129–42.
+
+Proskouriakoff, Tatiana. "Historical Implications of a Pattern of Dates at Piedras Negras, Guatemala." *American Antiquity* 25 (1960): 454–75.
+
+Proskouriakoff, Tatiana. "Historical Data in the Inscriptions of Yaxchilan, Part I: The Reign of Shield-Jaguar." *Estudios de Cultura Maya* III (1963): 149–67.
+
+Proskouriakoff, Tatiana. "Historical Data in the Inscriptions of Yaxchilan, Part II: The Reigns of Bird-Jaguar and his Successors." *Estudios de Cultura Maya* IV (1964): 177–201.
+
+Proskouriakoff, Tatiana. *Maya History*. University of Texas Press, 1993.
+
+Reese-Taylor, Kathryn, Peter Mathews, Julia Guernsey, and Marlene Fritzler. "Warrior Queens Among the Classic Maya." In *Blood and Beauty: Organized Violence in the Art and Archaeology of Mesoamerica and Central America*, edited by Heather Orr and Rex Koontz. Cotsen Institute of Archaeology, 2009.
+
+Tarn, Nathaniel, and Martin Prechtel. "Constant Inconstancy: The Feminine Principal in Atiteco Mythology." In *Symbol and Meaning Beyond the Closed Community,* edited by Gary Gossen. Institute for Mesoamerican Studies, 1986.
+
+Vogt, Evon. *Zincantan.* Harvard University Press, 1969.
+
+[^1]: 89th Annual Meeting of the American Anthropological Association, November 28–December 2, 1990, New Orleans, Lousiana.
+
+[^2]: Rosemary A. Joyce, “The Construction of Gender in Classic Maya Monuments,” in *Gender in Archaeology: Essays in Research and Practice*, ed. Rita Wright (University of Pennsylvania Press, 1996), 167–95.
+
+[^3]: ^3^ Nathaniel Tarn and Martin Prechtel, “Constant Inconstancy: The Feminine Principle in Atiteco Mythology,” in *Symbol and Meaning Beyond the Closed Community: Essays in Mesoamerican Ideas,* ed. Gary Gossen, vol. 1 of Studies on Culture and Society (Institute for Mesoamerican Studies, 1986), 173.
+
+[^4]: ^4^ Leslie Devereaux, “Gender Difference and Relations of Inequality in Zinacantan,” in *Dealing with Inequality: Analyzing Gender Relations in Melanesia and Beyond*, ed. Marilyn Strathern (Zed Books Ltd., 1987), 92.
+
+[^5]: Evon Z. Vogt, *Zinacantan: A Maya Community in the Highlands of Chiapas* (The Belknap Press of Harvard University Press, 1969), 196, 249, 266–68, 506.
+
+[^6]: Tatiana Proskouriakoff, “Historical Implications of a Pattern of Dates at Piedras Negras, Guatemala,” *American Antiquity* 25, no. 4 (1960): 454–75; “Historical Data in the Inscriptions of Yaxchilan, Part I: The Reign of Shield-Jaguar,” *Estudios de Cultura Maya* 3 (1963): 149–67; “Historical Data in the Inscriptions of Yaxchilan, Part II: The Reigns of Bird-Jaguar and his Successors,” *Estudios de Cultura Maya* 4 (1964): 177–201.
+
+[^7]: Clemency Coggins, “Painting and Drawing Styles at Tikal: An Historical and Iconographic Reconstruction” (PhD diss., Harvard University, 1975); William A. Haviland, “Dynastic Genealogies from Tikal, Guatemala: Implications for Descent and Political Organization," *American Antiquity* 42, no. 1 (1977): 61.
+
+[^8]: Ibid., 63.
+
+[^9]: Tatiana Proskouriakoff, *Maya History*, ed. Rosemary Joyce (University of Texas Press, 1993).
+
+[^10]: Rosemary A. Joyce, “Images of Gender and Labor Organization in Classic Maya Society,” In *Exploring Gender Through Archaeology: Selected Papers from the 1991 Boone Conference*, ed. Cheryl Claessen, Monographs in World Archaeology, no. 11 (Prehistory Press, 1992), 63–70; “Women’s Work: Images of Production and Reproduction in Prehispanic Southern Central America,” *Current Anthropology* 34, no. 3 (1993): 255–66.
+
+[^11]: Devereaux, “Gender Difference and Relations of Inequality in Zinacantan,” 93.
+
+[^12]: Joyce, “Construction of Gender.”
+
+[^13]: Roland Barthes, *Image Music Text*, translated by Stephen Heath (Noonday Press, 1977), 73, 120–22.
+
+[^14]: William F. Hanks, “Word and Image in a Semiotic Perspective,” in *Word and Image in Maya Culture: Explorations in Language, Writing, and Representation*, ed. William F. Hanks and Don S. Rice (University of Utah Press, 1989), 17.
+
+[^15]: Ibid., 17–18.
+
+[^16]: Ibid., 18.
+
+[^17]: Rosemary A. Joyce, "Figurines, Meaning, and Meaning-Making in Early Mesoamerica," in *Material Beginnings: A Global Prehistory of Figurative Representation*, ed. Colin Renfrew and Iain Morley (McDonald Institute for Archaeological Research, 2007), 107–16; “Disentangling Iconography in Borderlands: Nonhuman Actors and Authority in Honduran Classic Polychromes,” *Boletín del Museo Chileno de Arte Precolombino* 29, no. 2 (2024): 97–115.
+
+[^18]: Veerendra P. Lele, “Material Habits, Identity, Semeiotic,” *Journal of Social Archaeology* 6, no. 1 (2006): 51.
+
+[^19]: Cheryl Claassen, "Questioning Gender: An Introduction," in *Exploring Gender Through Archaeology: Selected Papers from the 1991 Boone Conference*, ed. Cheryl Claessen (Prehistory Press, 1992), 4; citing Judith Butler, *Gender Trouble: Feminism and the Subversion of Identity* (Routledge, 1990), 7.
+
+[^20]: Joyce, "Construction of Gender," 168.
+
+[^21]: Judith Butler, *Bodies that Matter: On the Discursive Limits of Sex* (Routledge, 1993).
+
+[^22]: “Precolumbian States of Being” was held April 20–21, 1996, and “Recovering Gender in Pre-Hispanic America” was held October 12–13, 1996.
+
+[^23]: Rosemary A. Joyce, “Performing the Body in Prehispanic Central America,” *RES: Anthropology and Aesthetics* 33 (1998): 147, 160; Butler, *Gender Trouble*, 7, 112; Butler, *Bodies that Matter*, 1–16, 101–19.
+
+[^24]: Rosemary A. Joyce, “Negotiating Sex and Gender in Classic Maya Society,” in *Gender in Pre-Hispanic America*, ed. Cecelia Klein (Dumbarton Oaks, 2001), 109–41; Butler, *Bodies That Matter*, 12–16, 101–19.
+
+[^25]: Rosemary A. Joyce, “Beauty, Sexuality, Body Ornamentation and Gender in Ancient Mesoamerica,” in *In Pursuit of Gender: Worldwide Archaeological Approaches*, ed. Sarah M. Nelson and Myriam Rosen-Ayalon (AltaMira Press, 2002), 81–92.
+
+[^26]: Joyce, “Negotiating Sex and Gender in Classic Maya Society,” 128.
+
+[^27]: Rosemary A. Joyce, “A Precolumbian Gaze: Male Sexuality Among the Ancient Maya,” in *Archaeologies of Sexuality*, ed. Robert A. Schmidt and Barbara L. Voss (Routledge, 2000), 263–83.
+
+[^28]: Joyce, “Negotiating Sex and Gender in Classic Maya Society,” 48–49, 79.
+
+[^29]: Rosemary A. Joyce, “Desiring Women: Classic Maya Sexualities,” in *Ancient Maya Gender Identity and Relations*, ed. Lowell Gustafson and Amelia Trevelyan (Bergin & Garvey, 2002), 329–344.
+
+[^30]: Traci Ardren, ed., *Ancient Maya Women* (AltaMira, 2002); Olivia Navarro-Farr et al., “Expanding the Canon: Lady K′abel the *Ix Kalooomte'* and the Political Narratives of Classic Maya Queens,” *Feminist Anthropology* 1, no. 1 (2020): 38–55; Esther Parpal Cabanes and Zoraida Raimúndez Ares, “Las mujeres de Uhx Te′ K′uh en la corte palencana: Una nueva aproximación a través de sus representaciones,” *Boletín Chileño de Arte Precolombino* 29, no. 1 (2024): 134–53; Jocelyne M. Ponce et al., “Weaving Political Threads: A Local Noble Woman at the Lowland Maya Site of La Corona,” *Journal of Field Archaeology* 51, no. 2 (2025): 1–14; Kathryn Reese-Taylor et al., “Warrior Queens Among the Classic Maya,” in *Blood and Beauty: Organized Violence in the Art and Archaeology of Mesoamerica and Central America*, ed. Heather Orr and Rex Koontz, Ideas, Debates, and Perspectives 4 (Cotsen Institute of Archaeology Press, 2009), 39–72.
+
+[^31]: Matthew Looper, “Women-Men (and Men-Women): Classic Maya Rulers and the Third Gender,” in *Ancient Maya Women*, 171–202.
