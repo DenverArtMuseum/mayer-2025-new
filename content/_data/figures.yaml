@@ -17,3 +17,58 @@ figure_list:
     label: "Fig. 3"
     caption: "Bernardino de Sahagún, Florentine Codex, Book 11, page 144. Getty Digital Florentine Codex."
     alt: "A page from an old book with two columns of handwritten text. Plant diagrams illustrated in color are inserted between paragraphs."
+
+  - id: joyce_fig_1
+    src: figures/joyce_fig_1.jpg
+    label: "Fig. 1"
+    caption: "Lintel 1, Yaxchilán, Mexico, 752 CE. Limestone, 32¼ × 37 in. (82 × 94 cm). Drawing by Ian Graham. © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 2004.15.6.5.1."
+    alt: "A line drawing shows two figures standing in profile, surrounded by hieroglyphic writing. The female figure on the right holds a bundle."
+  
+  - id: joyce_fig_2
+    src: figures/joyce_fig_2.jpg
+    label: "Fig. 2"
+    caption: "Stela 1, back, Piedras Negras, Guatemala, 706 CE. Limestone, 166⅛ × 50 in. (4.22  × 1.27 m). Drawing by David Stuart. © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 2004.15.6.19.1."
+    alt: "A woman in a huipil blouse and a very large, feathered headdress stands in a frontal pose. There is hieroglyphic text above her surrounding her headdress."
+
+  - id: joyce_fig_3
+    src: figures/joyce_fig_3.jpg
+    label: "Fig. 3"
+    caption: "Ulua Polychrome cylinder vessel showing a woman holding a vessel as part of a ceremony, Ulua Valley, Honduras, 750–850 CE. Ceramic, Museo de Antropología e Historia, San Pedro Sula. Photograph by Russell Sheptak."
+    alt: "A painted figure extends one arm up and the other forward, leaning forward slightly. The broken vessel is orange, red, and black."
+
+  - id: joyce_fig_4
+    src: figures/joyce_fig_4.jpg
+    label: "Fig. 4"
+    caption: "Ulua figurine of a woman and man, Campo Dos site, Honduras, 700–850 CE. Ceramic, 4⅛ × 3½ in. maximum width (10.5 × 9 cm maximum width). National Museum of the American Indian, Smithsonian Institution (18/2301). Photo by NMAI Photo Services."
+    alt: "A figurine in three-quarters view on a black background. Two figures depicted in unglazed clay stand side by side."
+
+  - id: joyce_fig_5
+    src: figures/joyce_fig_5.jpg
+    label: "Fig. 5"
+    caption: "Near life-size sculpture of a woman engaged in ritual dance, Currusté, Honduras, 700–850 CE. Ceramic, Partially restored torso 33½ in. (85 cm) tall; maximally restored over 55 in. (140 cm); maximum width 17¾ in. (45 cm). Photograph by Jeanne Lopiparo."
+    alt: "A large clay sculpture of a female torso in three-quarters view on a black background. The torso has broken at the arms and neck."
+
+  - id: joyce_fig_6
+    src: figures/joyce_fig_6.jpg
+    label: "Fig. 6"
+    caption: "Stela 34, El Perú-Waka', 692 CE. Limestone, 2.74 x 1.82 m (108⅛ x 71¾ in.). Cleveland Museum of Art. Used under Creative Commons CC0 1.0 Universal Deed."
+    alt: "A low-relief stone carving of a woman holding a shield in her left hand and a scepter in the other. A person of small stature to her right extends their hand to offer her something."
+
+  - id: joyce_fig_7
+    src: figures/joyce_fig_7.jpg
+    label: "Fig. 7"
+    caption: "Figurine of feminine supernatural weaving, Jaina Island, Campeche, Mexico., 400–800 CE. Ceramic, 6 × 6¼ in. National Museum of the American Indian, Smithsonian Institution (23/2865). Photo by NMAI Photo Services."
+    alt: "A clay sculpture depicts a woman seated with legs crossed at a loom. Her outstretched hands are resting on a bar over the threads."
+    
+  - id: joyce_fig_8
+    src: figures/joyce_fig_8.jpg
+    label: "Fig. 8"
+    caption: "Stela 24, front, Naranjo, Guatemala, 702 CE. Limestone, 75⅝ × 34¼ × 12⅝ in. (192 × 87 × 32 cm). © President and Fellows of Harvard College, Peabody Museum of Archaeology and Ethnology, 2004.15.6.2.45."
+    alt: "A line drawing depicts a woman standing on top of a prisoner. She wears ornate clothing and holds a basket of glyphs and symbols in her hands."
+    
+  - id: joyce_fig_9
+    src: figures/joyce_fig_9.jpg
+    label: "Fig. 9"
+    caption: "Fragmented figurine of woman carrying a jar, Cerro Palenque, Honduras, 850–950 CE. Ceramic, Restored height 13–15 cm; preserved width 8 cm. Drawing by Than Saffel."
+    alt: "A line drawing of a sculpture in pieces. Visible are a large headpiece, round earrings, an outstretched arm, and fragmented lower body."
+  
